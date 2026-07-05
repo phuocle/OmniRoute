@@ -9030,7 +9030,10 @@
     "colScore": "Score",
     "colAvgScore": "Avg Score",
     "colModels": "Models",
-    "colType": "Type"
+    "colType": "Type",
+    "filterConfiguredOnly": "Configured only",
+    "filterAvailableOnly": "Available only",
+    "filterAvailableOnlyHelp": "Hide providers whose connections are all rate-limited or out of quota."
   },
   "discovery": {
     "title": "Provider Discovery",

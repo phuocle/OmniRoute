@@ -4848,7 +4848,9 @@
     "kimiWebLabel": "Kimi Web",
     "kimiWebDesc": "Moonshot AI consumer chat via www.kimi.com (international, Connect-RPC API)",
     "doubaoWebLabel": "Dola Web",
-    "doubaoWebDesc": "ByteDance AI chat via dola.com"
+    "doubaoWebDesc": "ByteDance AI chat via dola.com",
+    "overrideBaseUrlAdvanced": "Advanced: override base URL",
+    "overrideBaseUrlHint": "Advanced: point this built-in provider at a custom endpoint. Leave blank to use the default."
   },
   "settings": {
     "title": "Settings",
